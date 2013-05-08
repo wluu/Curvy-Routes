@@ -10,7 +10,7 @@ module.exports = cr;
  * 	dest : Modules.Map.Annotation
  * 		- The destination point of type Module.Map.Annotation
  *  
- * 	waypoints : [Modules.Map.Annotation]
+ * 	waypoints (optional): [Modules.Map.Annotation]
  * 		- An array of points (of type Module.Map.Annotation) to pass through to get to dest
  * 
  * Returns (by reference)
